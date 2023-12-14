@@ -1,0 +1,10 @@
+.contactList {
+  display: inline-block;
+  list-style: none;
+  justify-content: space-between;
+  padding: 0;
+  width: 422px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px yellowgreen;
+  gap: 3px;
+}

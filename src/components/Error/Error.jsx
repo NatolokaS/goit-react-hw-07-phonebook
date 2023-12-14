@@ -1,5 +1,5 @@
 import { useSelector } from 'react-redux';
-import { getError } from 'redux/phonebookSlice';
+import { getError } from 'redux/contactsSlice';
 import { WrapperError } from './Error.styled';
 
 export const Error = () => {

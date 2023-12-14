@@ -1,0 +1,24 @@
+.contactsItem {
+  /* padding: 5px; */
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  background-color: #dcddc5;
+  font-weight: 200;
+  font-size: 14px;
+  color: green;
+  width: 400px;
+  padding: 10px;
+
+  border: 2px solid #d3ad31;
+}
+.contactsItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+.tel {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.delButton {
+  padding: 5px 10px;
+}
